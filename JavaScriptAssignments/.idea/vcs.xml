@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/js-assignment-declarative-nick-watson-hash" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/js-assignment-portfolio-nick-watson-hash" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/js-assignment-primer-nick-watson-hash" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/js-assignment-quizler-nick-watson-hash" vcs="Git" />
+  </component>
+</project>
